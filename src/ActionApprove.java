@@ -1,3 +1,6 @@
+import java.util.Observable;
+import java.util.Observer;
+
 public class ActionApprove extends Action {
 
     public ActionApprove (Invoice invoice) {
@@ -5,7 +8,7 @@ public class ActionApprove extends Action {
     }
 
     @Override
-    public void update () {
-        getInvoice().approve();
+    public void update (Observable o, Object arg) {
+        getInvoice ().approve ();
     }
 }

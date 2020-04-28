@@ -1,4 +1,6 @@
-public abstract class Action implements IObserver {
+import java.util.Observer;
+
+public abstract class Action implements Observer {
 
     private Invoice invoice;
 
@@ -9,6 +11,4 @@ public abstract class Action implements IObserver {
     public Invoice getInvoice () {
         return invoice;
     }
-
-    public abstract void update ();
 }

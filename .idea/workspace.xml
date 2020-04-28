@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e811c889-35c3-4206-9a0d-8af0a67a5a40" name="Default Changelist" comment="" />
+    <list default="true" id="e811c889-35c3-4206-9a0d-8af0a67a5a40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ActionApprove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ActionApprove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ActionProcessPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ActionProcessPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ActionStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ActionStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Approval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Approval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/InvoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/InvoiceTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="cfe16000-906e-43fa-9c4c-f6220e692212" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\kjvdlelij\OneDrive - De Haagse Hogeschool\Onderwijs\Projects IntelliJ\Patterns (Observer &amp; Invoice)\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1b9HwPG117PPuihgyjdxF8lceY5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,21 +84,62 @@
       <option name="presentableId" value="Default" />
       <updated>1588037627251</updated>
     </task>
+    <task id="LOCAL-00001" summary="vcs.xml added en .gitignore in .idea verwijderd.">
+      <created>1588038237809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588038237809</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vcs.xml added en .gitignore in .idea verwijderd.">
+      <created>1588038263885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588038263885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="vcs.xml added en .gitignore in .idea verwijderd.">
+      <created>1588038352095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588038352095</updated>
+    </task>
+    <task id="LOCAL-00004" summary="vcs.xml added en .gitignore in .idea verwijderd.">
+      <created>1588038401718</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588038401718</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vcs.xml added en .gitignore in .idea verwijderd." />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs.xml added en .gitignore in .idea verwijderd." />
   </component>
   <component name="WindowStateProjectService">
     <state x="583" y="200" key="#Project_Structure" timestamp="1588037874727">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="583" y="200" key="#Project_Structure/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588037874727" />
+    <state x="796" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1588096861772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="796" y="248" key="#com.intellij.ide.util.MemberChooser/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588096861772" />
     <state x="842" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588037781176">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="842" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588037781176" />
-    <state x="433" y="135" key="CommitChangelistDialog2" timestamp="1588038231954">
+    <state x="721" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588092291615">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="433" y="135" key="CommitChangelistDialog2/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038231954" />
+    <state x="721" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588092291615" />
+    <state x="433" y="135" key="CommitChangelistDialog2" timestamp="1588038397047">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="433" y="135" key="CommitChangelistDialog2/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038397047" />
     <state x="665" y="251" key="FileChooserDialogImpl" timestamp="1588037871485">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -87,38 +156,46 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="546" y="243" key="Github.UntrackedFilesDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038140927" />
-    <state width="1814" height="358" key="GridCell.Tab.0.bottom" timestamp="1588038022301">
+    <state width="1814" height="290" key="GridCell.Tab.0.bottom" timestamp="1588100443677">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1814" height="358" key="GridCell.Tab.0.bottom/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
-    <state width="1814" height="358" key="GridCell.Tab.0.center" timestamp="1588038022301">
+    <state width="1814" height="290" key="GridCell.Tab.0.bottom/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588100443677" />
+    <state width="1814" height="290" key="GridCell.Tab.0.center" timestamp="1588100443677">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1814" height="358" key="GridCell.Tab.0.center/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
-    <state width="1814" height="358" key="GridCell.Tab.0.left" timestamp="1588038022301">
+    <state width="1814" height="290" key="GridCell.Tab.0.center/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588100443677" />
+    <state width="1814" height="290" key="GridCell.Tab.0.left" timestamp="1588100443677">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1814" height="358" key="GridCell.Tab.0.left/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
-    <state width="1814" height="358" key="GridCell.Tab.0.right" timestamp="1588038022301">
+    <state width="1814" height="290" key="GridCell.Tab.0.left/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588100443677" />
+    <state width="1814" height="290" key="GridCell.Tab.0.right" timestamp="1588100443677">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1814" height="358" key="GridCell.Tab.0.right/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
-    <state width="1814" height="358" key="GridCell.Tab.1.bottom" timestamp="1588038022302">
+    <state width="1814" height="290" key="GridCell.Tab.0.right/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588100443677" />
+    <state width="1814" height="358" key="GridCell.Tab.1.bottom" timestamp="1588100325436">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1814" height="358" key="GridCell.Tab.1.bottom/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022302" />
-    <state width="1814" height="358" key="GridCell.Tab.1.center" timestamp="1588038022301">
+    <state width="1814" height="358" key="GridCell.Tab.1.bottom/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588100325436" />
+    <state width="1814" height="358" key="GridCell.Tab.1.center" timestamp="1588100325436">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1814" height="358" key="GridCell.Tab.1.center/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
-    <state width="1814" height="358" key="GridCell.Tab.1.left" timestamp="1588038022301">
+    <state width="1814" height="358" key="GridCell.Tab.1.center/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588100325436" />
+    <state width="1814" height="358" key="GridCell.Tab.1.left" timestamp="1588100325436">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1814" height="358" key="GridCell.Tab.1.left/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
-    <state width="1814" height="358" key="GridCell.Tab.1.right" timestamp="1588038022302">
+    <state width="1814" height="358" key="GridCell.Tab.1.left/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588100325436" />
+    <state width="1814" height="358" key="GridCell.Tab.1.right" timestamp="1588100325436">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1814" height="358" key="GridCell.Tab.1.right/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022302" />
+    <state width="1814" height="358" key="GridCell.Tab.1.right/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588100325436" />
+    <state x="547" y="263" key="RollbackChangesDialog" timestamp="1588038427355">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="547" y="263" key="RollbackChangesDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038427355" />
+    <state x="583" y="274" key="Vcs.Push.Dialog.v2" timestamp="1588038410176">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="274" key="Vcs.Push.Dialog.v2/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038410176" />
     <state x="696" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588037808215">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -127,5 +204,38 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="762" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588037810256" />
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1588093357109">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588093357109" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/InvoiceTest.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ActionStart.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ActionProcessPayment.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="invoice.isInitialized()" language="JAVA" />
+        <watch expression="invoice.isConcept()" language="JAVA" />
+        <watch expression="invoice.isSent()" language="JAVA" />
+        <watch expression="invoice.isPaid()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

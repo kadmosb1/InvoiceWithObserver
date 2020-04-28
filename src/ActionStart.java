@@ -1,3 +1,6 @@
+import java.util.Observable;
+import java.util.Observer;
+
 public class ActionStart extends Action {
 
     public ActionStart (Invoice invoice) {
@@ -5,5 +8,7 @@ public class ActionStart extends Action {
     }
 
     @Override
-    public void update () { getInvoice().start(); }
+    public void update(Observable o, Object arg) {
+        getInvoice ().start ();
+    }
 }

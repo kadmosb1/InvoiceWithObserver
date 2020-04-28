@@ -1,9 +1,9 @@
 public class Invoice {
 
-    private static InvoiceState initialState;
-    private static InvoiceState conceptState;
-    private static InvoiceState sentState;
-    private static InvoiceState paidState;
+    private InvoiceState initialState = new InvoiceInitialState (this, "Initial");
+    private InvoiceState conceptState = new InvoiceConceptState (this, "Concept");
+    private InvoiceState sentState = new InvoiceSentState(this, "Sent");
+    private InvoiceState paidState = new InvoicePaidState(this, "Paid");
 
     private InvoiceState state;
 
@@ -12,10 +12,6 @@ public class Invoice {
 
     public Invoice () {
         this.invoiceNumber = "Invoice-" + invoiceNumberCounter++;
-        initialState = new InvoiceInitialState (this, "Initial");
-        conceptState = new InvoiceConceptState (this, "Concept");
-        sentState = new InvoiceSentState(this, "Sent");
-        paidState = new InvoicePaidState(this, "Paid");
         this.state = initialState;
     }
 

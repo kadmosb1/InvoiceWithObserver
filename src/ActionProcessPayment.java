@@ -1,3 +1,6 @@
+import java.util.Observable;
+import java.util.Observer;
+
 public class ActionProcessPayment extends Action {
 
     public ActionProcessPayment(Invoice invoice) {
@@ -5,7 +8,7 @@ public class ActionProcessPayment extends Action {
     }
 
     @Override
-    public void update () {
-        getInvoice().processPayment();
+    public void update(Observable o, Object arg) {
+        getInvoice ().processPayment ();
     }
 }

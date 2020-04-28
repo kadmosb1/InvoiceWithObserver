@@ -2,8 +2,10 @@ import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
 import sun.plugin.javascript.navig.Array;
 
 import java.util.ArrayList;
+import java.util.Observable;
+import java.util.Observer;
 
-public class Subject {
+public class Subject extends Observable {
 
     /*
      * Invoices can be found based on the invoice-number.
@@ -30,38 +32,32 @@ public class Subject {
         return null;
     }
 
-    public static void reset () {
+    public static void resetInvoices () {
         invoices = new ArrayList<> ();
     }
 
-    private ArrayList<IObserver> observers;
     private Invoice currentInvoice;
 
+    public Subject (Invoice invoice) {
+        addInvoice(invoice);
+        currentInvoice = invoice;
+    }
+
     public Subject () {
-        observers = new ArrayList<> ();
-    }
-
-    public void addObserver (IObserver observer) {
-        observers.add (observer);
-    }
-
-    public void setObserver (IObserver observer) {
-        observers = new ArrayList<> ();
-        addObserver(observer);
+        this (new Invoice ());
     }
 
     public Invoice getCurrentInvoice () {
         return currentInvoice;
     }
 
-    public void setCurrentInvoice (Invoice invoice) {
-        currentInvoice = invoice;
+    public void setObserver (Observer observer) {
+        deleteObservers();
+        addObserver(observer);
     }
 
     public void performAction () {
-
-        for (IObserver observer : observers) {
-            observer.update();
-        }
+        setChanged ();
+        notifyObservers ();
     }
 }
