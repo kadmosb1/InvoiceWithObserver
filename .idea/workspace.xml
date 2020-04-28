@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e811c889-35c3-4206-9a0d-8af0a67a5a40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b9HwPG117PPuihgyjdxF8lceY5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kjvdlelij\OneDrive - De Haagse Hogeschool\Onderwijs\Projects IntelliJ\Patterns (Observer &amp; Invoice)\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="InvoiceTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Patterns (Observer &amp; Invoice)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InvoiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e811c889-35c3-4206-9a0d-8af0a67a5a40" name="Default Changelist" comment="" />
+      <created>1588037627251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588037627251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="200" key="#Project_Structure" timestamp="1588037874727">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="200" key="#Project_Structure/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588037874727" />
+    <state x="842" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588037781176">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="842" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588037781176" />
+    <state x="433" y="135" key="CommitChangelistDialog2" timestamp="1588038231954">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="433" y="135" key="CommitChangelistDialog2/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038231954" />
+    <state x="665" y="251" key="FileChooserDialogImpl" timestamp="1588037871485">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="665" y="251" key="FileChooserDialogImpl/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588037871485" />
+    <state x="854" y="455" key="Github.Dialog.Accounts.Choose" timestamp="1588038152089">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="854" y="455" key="Github.Dialog.Accounts.Choose/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038152089" />
+    <state x="792" y="421" key="Github.ShareDialog" timestamp="1588038113076">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="792" y="421" key="Github.ShareDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038113076" />
+    <state x="546" y="243" key="Github.UntrackedFilesDialog" timestamp="1588038140927">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="546" y="243" key="Github.UntrackedFilesDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038140927" />
+    <state width="1814" height="358" key="GridCell.Tab.0.bottom" timestamp="1588038022301">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1814" height="358" key="GridCell.Tab.0.bottom/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
+    <state width="1814" height="358" key="GridCell.Tab.0.center" timestamp="1588038022301">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1814" height="358" key="GridCell.Tab.0.center/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
+    <state width="1814" height="358" key="GridCell.Tab.0.left" timestamp="1588038022301">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1814" height="358" key="GridCell.Tab.0.left/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
+    <state width="1814" height="358" key="GridCell.Tab.0.right" timestamp="1588038022301">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1814" height="358" key="GridCell.Tab.0.right/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
+    <state width="1814" height="358" key="GridCell.Tab.1.bottom" timestamp="1588038022302">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1814" height="358" key="GridCell.Tab.1.bottom/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022302" />
+    <state width="1814" height="358" key="GridCell.Tab.1.center" timestamp="1588038022301">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1814" height="358" key="GridCell.Tab.1.center/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
+    <state width="1814" height="358" key="GridCell.Tab.1.left" timestamp="1588038022301">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1814" height="358" key="GridCell.Tab.1.left/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022301" />
+    <state width="1814" height="358" key="GridCell.Tab.1.right" timestamp="1588038022302">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1814" height="358" key="GridCell.Tab.1.right/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588038022302" />
+    <state x="696" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588037808215">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="696" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588037808215" />
+    <state x="762" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588037810256">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="762" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588037810256" />
+  </component>
+</project>
